@@ -1,0 +1,14 @@
+#menu {
+    background: lightgray;
+    width: 140px;
+}
+
+.results {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+.meta {
+    display: none !important;
+}
